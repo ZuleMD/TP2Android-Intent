@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TP2Android-Intent</string>
+    <string name="show">Show Me</string>
+    <string name="cal">Add To Calander</string>
+    <string name="txt">Text</string>
+    <string name="typed">You Typed</string>
+</resources>
